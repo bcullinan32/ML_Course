@@ -1,0 +1,1 @@
+{"exDict": {"activation": "tanh", "alpha": 0.05, "hidden_layer_sizes": [100], "learning_rate": "adaptive", "max_iter": 300, "solver": "sgd"}}
